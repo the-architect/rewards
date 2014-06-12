@@ -49,6 +49,7 @@ GEM
       simplecov-html (~> 0.8.0)
     simplecov-html (0.8.0)
     slop (3.5.0)
+    terminal-notifier-guard (1.5.3)
     thor (0.19.1)
     timers (1.1.0)
 
@@ -61,3 +62,4 @@ DEPENDENCIES
   rspec
   simplecov
   simplecov-html
+  terminal-notifier-guard
