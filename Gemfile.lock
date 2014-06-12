@@ -58,7 +58,6 @@ PLATFORMS
 
 DEPENDENCIES
   guard-rspec
-  pry
   rspec
   simplecov
   simplecov-html

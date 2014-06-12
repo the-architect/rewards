@@ -1,10 +1,9 @@
 source 'https://rubygems.org'
 
 group :development, :test do
-  gem 'pry'
   gem 'guard-rspec'
   gem 'terminal-notifier-guard'
-  gem 'simplecov'
-  gem 'simplecov-html'
+  gem 'simplecov', require: false
+  gem 'simplecov-html', require: false
   gem 'rspec'
 end
